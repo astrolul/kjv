@@ -1,8 +1,12 @@
-<a href="https://thepreservedbible.com/" title="Why the King James Bible?"><img src="https://i.ibb.co/svCrDys/The-Preserved-Bible-Small.jpg" width="300" align="right"></a>
+<!-- <a href="https://thepreservedbible.com/" title="Why the King James Bible?"><img src="https://i.ibb.co/svCrDys/The-Preserved-Bible-Small.jpg" width="300" align="right"></a> -->
 
-# kjv
+# 📖 astrolul's kjv fork
 
 Read the Word of God from your terminal
+
+## To-do List
+- [ ] Add a Bionic Reading CLI argument.
+- [ ] Switch to a more understandable translation (e.g. NET).
 
 ## Usage
 
